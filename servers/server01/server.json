@@ -1,0 +1,10 @@
+{
+    "server": true,
+    "bootstrap_expect": 3,
+    "data_dir": "/var/lib/consul",
+    "node_name": "consulserver01",
+    "client_addr": "0.0.0.0",
+    "ui_config": {
+        "enabled": true
+    }
+}
